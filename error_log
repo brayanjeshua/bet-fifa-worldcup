@@ -1,0 +1,101 @@
+[10-Apr-2018 22:52:27 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[10-Apr-2018 22:53:11 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[10-Apr-2018 22:53:29 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[10-Apr-2018 22:55:36 UTC] PHP Notice:  Undefined variable: array in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[10-Apr-2018 22:55:36 UTC] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[10-Apr-2018 22:55:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 18
+[10-Apr-2018 23:04:08 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[10-Apr-2018 23:05:04 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[10-Apr-2018 23:10:39 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[10-Apr-2018 23:20:32 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/v2/funcs/funcs.php on line 250
+[12-Apr-2018 19:49:40 UTC] PHP Notice:  Undefined variable: array in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[12-Apr-2018 19:49:40 UTC] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[12-Apr-2018 19:49:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 18
+[12-Apr-2018 19:50:14 UTC] PHP Notice:  Undefined variable: array in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[12-Apr-2018 19:50:14 UTC] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[12-Apr-2018 19:50:14 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 18
+[12-Apr-2018 19:50:27 UTC] PHP Notice:  Undefined variable: array in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[12-Apr-2018 19:50:27 UTC] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 15
+[12-Apr-2018 19:50:27 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gnqzz4khuihs/public_html/v2/procesarApuesta.php on line 18
+[13-Apr-2018 16:30:47 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 16:32:46 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 16:33:56 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 20:59:25 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 20:59:55 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 21:01:31 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 10
+[13-Apr-2018 21:01:31 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 56
+[13-Apr-2018 21:01:31 UTC] PHP Notice:  Undefined index: tipo_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 64
+[13-Apr-2018 21:01:35 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 21:07:20 UTC] PHP Notice:  Undefined variable: array in /home/gnqzz4khuihs/public_html/procesarApuesta.php on line 15
+[13-Apr-2018 21:07:20 UTC] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/gnqzz4khuihs/public_html/procesarApuesta.php on line 15
+[13-Apr-2018 21:07:20 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gnqzz4khuihs/public_html/procesarApuesta.php on line 18
+[13-Apr-2018 21:08:09 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 21:08:48 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 21:14:10 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 21:15:04 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 21:15:13 UTC] PHP Notice:  Undefined variable: array in /home/gnqzz4khuihs/public_html/procesarApuesta.php on line 15
+[13-Apr-2018 21:15:13 UTC] PHP Warning:  array_chunk() expects parameter 1 to be array, null given in /home/gnqzz4khuihs/public_html/procesarApuesta.php on line 15
+[13-Apr-2018 21:15:13 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/gnqzz4khuihs/public_html/procesarApuesta.php on line 18
+[13-Apr-2018 22:43:15 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[13-Apr-2018 22:51:42 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 01:05:51 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 04:03:56 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/bienvenida.php on line 45
+[14-Apr-2018 04:08:01 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 04:09:17 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 05:03:03 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 05:17:14 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 05:23:37 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/gnqzz4khuihs/public_html/polla.php on line 191
+[14-Apr-2018 05:39:15 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 10
+[14-Apr-2018 05:39:15 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 57
+[14-Apr-2018 05:39:15 UTC] PHP Notice:  Undefined index: tipo_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 65
+[14-Apr-2018 05:39:26 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 05:46:59 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 10
+[14-Apr-2018 05:46:59 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 57
+[14-Apr-2018 05:46:59 UTC] PHP Notice:  Undefined index: tipo_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 65
+[14-Apr-2018 05:47:09 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:03:44 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:04:24 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:06:48 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:07:57 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:10:11 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:26:57 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:27:36 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:28:25 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:29:30 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:30:46 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:33:03 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:33:08 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 10
+[14-Apr-2018 06:33:08 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 57
+[14-Apr-2018 06:33:08 UTC] PHP Notice:  Undefined index: tipo_usuario in /home/gnqzz4khuihs/public_html/polla.php on line 65
+[14-Apr-2018 06:33:14 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:34:00 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:39:02 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:09 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:51:55 UTC] PHP Notice:  Undefined index: faseRonda in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 113
+[14-Apr-2018 06:52:56 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 124
+[14-Apr-2018 06:52:59 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 124
+[14-Apr-2018 06:53:58 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 131
+[14-Apr-2018 06:54:07 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 131
+[14-Apr-2018 06:54:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 131
+[14-Apr-2018 06:54:39 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 131
+[14-Apr-2018 06:55:18 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in /home/gnqzz4khuihs/public_html/posiciones_2.php on line 131
+[14-Apr-2018 08:05:25 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 08:06:01 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 08:13:28 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 16:38:55 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250
+[14-Apr-2018 18:12:41 UTC] PHP Notice:  Undefined index: id_usuario in /home/gnqzz4khuihs/public_html/bienvenida.php on line 45
+[14-Apr-2018 18:12:58 UTC] PHP Notice:  Undefined variable: errors in /home/gnqzz4khuihs/public_html/funcs/funcs.php on line 250

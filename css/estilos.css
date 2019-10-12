@@ -1,0 +1,319 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+@charset "UTF-8";
+@charset 'iso-8859-15';
+* {
+}
+input::placeholder, p, a {
+	text-transform:uppercase;
+}
+body {
+	width:100%;
+	font-family:'Montserrat', 'sans-serif' !important;
+	background:url("../img/fondo-negro.jpg") no-repeat center center fixed;
+	background-size:cover;
+}
+select{
+	text-align:center !important;
+	color:#fff;
+	background-color:#00457D;
+	border: none !important;
+}
+.centrar {
+	width:70%;
+}
+#registrocaja {
+	display:block;
+	background-color:#000 !important;
+}
+
+/*Login*/
+.login {
+	border-radius:25px !important;
+	background-color:#032960 !important;
+	width:22% !important;
+	margin:auto;
+	margin-top:35%;
+}
+
+
+.login .input-group {
+	margin-bottom: 7px;
+}
+.login .input-group input{
+	border-radius:25px !important;
+	max-height:2.7rem;
+    background-color: white;
+    background-image: url('../img/usuario.png');
+    background-position: 95% center;
+    background-repeat: no-repeat;
+    text-align:center;
+}
+
+.login .input-group input.pass {
+	background-color: white;
+    background-image: url('../img/clave.png');
+    background-position: 95% center;
+    background-repeat: no-repeat;
+}
+
+.opc {
+	font-size:0.6em;
+
+}
+.opc p {
+	margin:0px !important;
+}
+.opc a {
+	color:#4A72B0 !important;
+}
+
+.loginOpc {
+	width:100%;
+	margin:auto !important;
+	float:center;
+}
+.entrar {
+	border:none;
+	text-transform:uppercase;
+	background-color:#29CBE2;
+	padding:2%;
+	max-height:;
+	color:#fff;
+	letter-spacing:1px;
+	border-radius:25px !important;
+	font-size:0.8em;
+	margin-left:13px;
+}
+.entrar:hover {
+	background-color:#000;
+	color:#fff;
+}
+
+.entrarLogin {
+	float:right !important;
+	border:none;
+	text-transform:uppercase;
+	background-color:#29CBE2;
+	padding:3%;
+	max-height:;
+	color:#fff;
+	letter-spacing:1px;
+	border-radius:25px !important;
+	font-size:0.8em;
+	margin-left:13px;
+}
+.entrarLogin:hover {
+	background-color:#000;
+	color:#fff;
+}
+.container {
+	width:100%;
+}
+.registro {
+	width:460px;
+}
+.panel-body {
+	background-image:url("../img/fondo-registro.png");
+	background-size:100%;
+	background-repeat:no-repeat;
+	padding:10%;
+}
+.panel-registro input {
+	margin:auto;
+	border-radius:25px !important;
+	max-height:2.7rem;
+	width:69%;
+	margin-bottom:5px;
+	font-size:0.9em;
+	text-align:center;
+}
+.form-group .botRegistro {
+	text-align:center;
+	/*Para que se vea centrado optimizar moviles*/
+	margin-left:-9px;
+	width:100%;
+	color:gray;
+}
+.recuperar {
+	background:#032960 !important;
+	color:#fff;
+}
+
+
+/*Estilos de Polla.php*/
+
+.table-responsive {
+	width:60%;
+	margin:auto;
+	background-image:url(../img/fondo-polla.png);
+	background-size:60%;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	border-radius:25px !important;
+	/*border:5px solid #fff;*/
+}
+table td, table th, h3 {
+	color:#fff !important;
+	padding:1% 1% 2% 2%;
+	font-size:0.8em;
+}
+table {
+	border-color:#C0A581 !important;
+}
+
+.guardar {
+	font-size:0.9em;
+	border-color:#787878;
+	border-radius:40px;
+	color:#fff;
+	padding:5px;
+	background-color:#C42B2B;
+	border:none;
+}
+.guardar:hover {
+	background-color:#00457D;
+
+}
+
+/*Navegacion*/
+
+#nav {
+
+}
+#nav ul {
+	position:relative;
+	margin:auto;
+	bottom:100px;
+	background-color:#000;
+	margin-left:215px;
+}
+nav ul li {
+	font-size:0.9em;
+	background-color:#00457D;
+	border-color:#787878;
+	border-radius:40px;
+	float:left;
+	margin-right:25px;
+	list-style:none;
+	padding:5px;
+}
+nav ul li.bgNon {
+	background:none;
+}
+nav ul li.bgNon:hover {
+	background:none;
+}
+nav ul li a{
+	text-decoration:none !important;
+	padding-left:20px;
+	padding-right:20px;
+	color:#ffffff !important;
+}
+nav ul li:hover {
+	background-color:#C42B2B;
+}
+/*Colores Tabla*/
+table th {
+	text-align:center;
+}
+table tr.dif {
+	background-color:#00132D;
+}
+.tableJn {
+	width:100%;
+    border-collapse: separate !important;
+}
+table {
+	border-radius:20px !important;
+    border: 5px solid #C0A581 !important;
+
+}
+td, th {
+    border: 2px solid #C0A581 !important;
+}
+
+.apuestas {
+	position:absolute;
+	top:100px;
+	right:34.44%;
+	margin:auto;
+	width:30%;
+	height:150px;
+	background-image:url("../img/copa.png");
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+.apuestas p {
+	width:100%;
+	position:relative;
+	color:#fff;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: montserrat, sans-serif;
+	font-weight: 700;
+	top:58px;
+	left:43px;
+	margin-right:100px;
+}
+
+.posiciones {
+	position:absolute;
+	top:90px;
+	right:40%;
+	margin:auto;
+	width:20%;
+	height:250px;
+	background-image:url("../img/posiciones.png");
+	background-size:100%;
+	background-repeat:no-repeat;
+}
+.tablePosiciones {
+	position:relative;
+	top:80px;
+}
+/*
+.posiciones p {
+	width:100%;
+	position:relative;
+	color:#fff;
+	font-size: 30px;
+	line-height: 36px;
+	font-family: montserrat, sans-serif;
+	font-weight: 700;
+	top:58px;
+	left:43px;
+	margin-right:100px;
+}
+*/
+
+/*Un poquito de Responsive*/
+
+@media screen and (max-width: 800px) {
+	.login {
+		width:80% !important;
+	}
+	.panel-info {
+		width:80% !important;
+	}
+	.table-responsive {
+	width:100%;
+	margin:auto;
+	background-image:url(../img/fondo-polla.png);
+	background-size:100%;
+	background-position:center center;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	border-radius:40px !important;
+	/*border:5px solid #fff;*/
+	background-color
+	}
+}
+@media screen and (max-width: 400px) {
+	.login {
+		width:100% !important;
+	}
+	.panel-info {
+		width:100% !important;
+	}
+}

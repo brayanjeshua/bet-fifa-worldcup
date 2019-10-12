@@ -1,0 +1,15 @@
+/*Cerrar Seion*/
+.cerrar {
+	width:100%;
+	align-content:center;
+	text-align:center;
+	margin-top:10px;
+	position:absolute;
+}
+.cerrar img{
+	width:30px;
+	margin:auto;
+}
+.cerrar img:hover {
+	opacity:0.5;
+}
